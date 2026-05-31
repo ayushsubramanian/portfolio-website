@@ -615,8 +615,8 @@ a {
 }
 
 .project-card-short > img {
-  min-height: 285px;
-  padding: 74px;
+  min-height: 315px;
+  padding: 58px;
 }
 
 .project-card > div {
@@ -624,11 +624,11 @@ a {
 }
 
 .project-card-short > div {
-  padding: 28px 38px;
+  padding: 34px 38px;
 }
 
 .project-card-tight.project-card-compact .project-media {
-  min-height: 270px;
+  min-height: 290px;
   padding: 28px;
 }
 
@@ -638,19 +638,13 @@ a {
 }
 
 .project-card-tight.project-card-compact > div {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .project-card-tight.project-card-compact p:not(.project-type),
 .project-card-tight.project-card-compact .tags,
 .project-card-tight.project-card-compact .project-link {
-  margin-top: 10px;
-}
-
-.project-card-tight.project-card-short p:not(.project-type),
-.project-card-tight.project-card-short .tags,
-.project-card-tight.project-card-short .project-link {
   margin-top: 14px;
 }
 
@@ -1177,7 +1171,7 @@ a {
   }
 
   .project-card-tight.project-card-compact .project-media {
-    min-height: 170px;
+    min-height: 185px;
     padding: 18px;
   }
 
@@ -1187,29 +1181,23 @@ a {
   }
 
   .project-card-tight.project-card-compact > div {
-    padding-top: 14px;
-    padding-bottom: 14px;
+    padding-top: 18px;
+    padding-bottom: 18px;
   }
 
   .project-card-tight.project-card-compact p:not(.project-type),
   .project-card-tight.project-card-compact .tags,
   .project-card-tight.project-card-compact .project-link {
-    margin-top: 10px;
+    margin-top: 12px;
   }
 
   .project-card-short > img {
-    min-height: 195px;
-    padding: 44px;
+    min-height: 215px;
+    padding: 32px;
   }
 
   .project-card-short > div {
-    padding: 14px 22px;
-  }
-
-  .project-card-tight.project-card-short p:not(.project-type),
-  .project-card-tight.project-card-short .tags,
-  .project-card-tight.project-card-short .project-link {
-    margin-top: 12px;
+    padding: 18px 22px;
   }
 
   .project-card-compact > div {
@@ -1372,8 +1360,8 @@ a {
   }
 
   .project-card-short > img {
-    min-height: 195px;
-    padding: 44px;
+    min-height: 215px;
+    padding: 34px;
   }
 }
 
@@ -1423,7 +1411,7 @@ a {
   }
 
   .project-card-short > div {
-    padding: 14px 22px;
+    padding: 18px 22px;
   }
 
   .project-media {
